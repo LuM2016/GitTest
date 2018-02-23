@@ -1,6 +1,6 @@
 just for test.
 modify the file.
 
-
-
 after stash
+test git stash:
+before stash
