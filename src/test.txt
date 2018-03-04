@@ -4,3 +4,6 @@ modify the file.
 after stash
 test git stash:
 before stash
+
+test reset
+
