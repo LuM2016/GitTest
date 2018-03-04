@@ -7,3 +7,4 @@ before stash
 
 test reset
 
+test commit_amend

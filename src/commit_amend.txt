@@ -1,1 +1,2 @@
 just test commit_amend
+test commit_amend
