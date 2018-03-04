@@ -1,0 +1,3 @@
+just for merge_squash
+
+create new file merge_squash.txt
