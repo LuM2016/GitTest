@@ -1,0 +1,10 @@
+Test rebase i: 
+modify commit message.
+merge multi-times commit message.
+
+create rebase_i.txt
+first commit message.
+
+second commit message.
+
+third commit message.
